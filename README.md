@@ -1,8 +1,10 @@
 张俊逸
 --------------------------
+
 #### 联系方式
 - 手机：18516288236
-- Email：zjywill@hotmail.com
+- Email：zjywill@hotmail.com  
+
 #### 个人信息
 - 男/1989
 - 本科/西安电子科技大学
@@ -11,7 +13,6 @@
 - 技能：Android，Java，Python，PHP，C++
 - 爱好：Padi Aow潜水员
 - 语言：英文良好
-
 
 #### 工作经历
 
