@@ -22,9 +22,17 @@
 
 - 析金法Android客户端（https://www.xijinfa.com）  
   用到的库：Dagger2，RxJava，RxAndroid，RetroLambda，Retrofit2，Glide，Realm  
-  代码架构：MVP  
+  代码架构：MVP, Viper
   代码质量：CheckStyles，FindBugs，PMD，Android Lint，Unit Test
   代码持续化集成：Jenkins
+  
+- 析金法ios客户端 
+  用到的库：Moya，RxSwift，Realm，Kingfisher，AwesomeCache，Generamba
+  语言：Swift3
+  代码架构：Viper
+  代码质量：SwiftLint
+  代码持续化集成：Jenkins，fastlane
+  主要职责：帮助ios端重构，统一和Android客户端代码，统一代码架构
   
 ##### 联想
 
