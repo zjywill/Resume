@@ -18,9 +18,13 @@
 
 #### 工作经历
 
+##### 上海连尚网络科技有限公司（WiFi万能钥匙）
+
+2017 年 4 月 - 至今
+
 ##### 上海相誉网络科技有限公司
 
-2016 年 3 月 - 至今
+2016 年 3 月 - 2017 年 3 月
 
 - 析金法Android客户端（https://www.xijinfa.com）  
   用到的库：Dagger2，RxJava，RxAndroid，RetroLambda，Retrofit2，Glide，Realm  
@@ -29,12 +33,12 @@
   代码持续化集成：Jenkins  
   
 - 析金法ios客户端  
-  用到的库：Moya，RxSwift，Realm，Kingfisher，AwesomeCache，Generamba  
-  语言：Swift3  
-  代码架构：Viper  
-  代码质量：SwiftLint  
-  代码持续化集成：Jenkins，fastlane  
-  主要职责：帮助ios端重构，统一和Android客户端代码，统一代码架构  
+  用到的库：Moya，RxSwift，Realm，Kingfisher，AwesomeCache，Generamba  
+  语言：Swift3  
+  代码架构：Viper  
+  代码质量：SwiftLint  
+  代码持续化集成：Jenkins，fastlane  
+  主要职责：帮助ios端重构，统一和Android客户端代码，统一代码架构  
   
 代码架构上Android和ios统一参照了VIPER架构，ios利用Generamba来确保团队代码的一致性，具体实践中因为VIPER框架稍许复杂去除了Router部分，与Presenter合并，原因是本身利用了RxSwift，获取数据以及数据操作的逻辑清晰。ios端与Android端做的主要统一是数据的获取以及缓存机制，Android端利用Retrofit2与OkHttp进行数据的获取，利用OkHttp的interceptor进行数据的缓存，分短期与长期，短期的作用主要是防止用户频繁刷新数据，减少服务器压力，长期缓存作用是提供无网络情况数据呈现，因为ios端没有现成的框架实现http缓存，所以利用AwesomeCache完成缓存的工作，实现同Android相同的逻辑。因为客户端需要持久化的数据只有用户信息以及token，所以在Realm中只保存了用户基本信息以及Token，减少之后数据库Merge的难度。
  
@@ -56,7 +60,7 @@
 
 2011年6月 - 2014年2月
 
-- 蓝牙设备手机端程序(HTC mini)  
+- 蓝牙设备手机端程序(HTC mini)  
   开发语言：C++  
   主要功能：通过手机端应用与蓝牙设备进行交互，向蓝牙设备传输界面，以及手机中的相关信息（通话纪录，短信，日历项目）使用户可以通过蓝牙设备对手机进行访问。主要技术用到了蓝牙的通信，系统通讯录，短信信息等的读取。  
   
