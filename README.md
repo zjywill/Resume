@@ -22,9 +22,11 @@
 
 2017 年 4 月 - 至今
 
-- Maintain and bug fixing for the eighty billion user application Wifi Master Key.
-  Mostly for the functions like Wi-Fi speed testing, security, also some bonus function like game accelerate.
-- Wi-Fi Master Sim a whole new application, for the user who uses the LinkSure Sim card, can get more traffic.
+- WiFi万能钥匙功能维护开发，网络测速模块，安全检测模块，开屏广告.
+- 连尚万能上网客户端开发
+  用到的库：Dagger，DaggerAndroid，RxJava2，RxAndroid2，Requery，Retrofit2，Glide
+  代码架构：MVI
+  代码持续化集成：GitLab-CI 
 
 
 ##### 上海相誉网络科技有限公司
