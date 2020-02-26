@@ -19,6 +19,9 @@
 #### 工作经历
 
 ##### 上海连尚网络科技有限公司（WiFi万能钥匙）
+- Maintain and bug fixing for the eighty billion user application Wifi Master Key.
+  Mostly for the functions like Wi-Fi speed testing, security, also some bonus function like game accelerate.
+- Wi-Fi Master Sim a whole new application, for the user who uses the LinkSure Sim card, can get more traffic.
 
 2017 年 4 月 - 至今
 
