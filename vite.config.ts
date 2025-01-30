@@ -4,6 +4,7 @@ import tailwindcss from '@tailwindcss/vite';
 import Markdown from 'unplugin-vue-markdown/vite';
 // https://vite.dev/config/
 export default defineConfig({
+  base: '/Resume/',
   plugins: [
     vue({
       include: [/\.vue$/, /\.md$/],
