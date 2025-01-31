@@ -3,7 +3,7 @@ import Resume from './Resume.vue';
 </script>
 
 <template>
-  <div class="min-h-screen bg-gray-900 py-8 px-4 sm:px-6 lg:px-8">
+  <div class="min-h-screen bg-gray-800 py-8 px-4 sm:px-6 lg:px-8">
     <div class="max-w-4xl mx-auto">
       <main class="bg-gray-800 rounded-xl shadow-lg overflow-hidden">
         <div class="p-4 sm:p-6 lg:p-8">
