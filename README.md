@@ -4,7 +4,7 @@
 
 ## 预览
 
-![Resume Preview](./preview.png)
+![Resume Preview](https://zjywill.github.io/Resume/)
 
 ## 特点
 
