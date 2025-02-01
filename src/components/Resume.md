@@ -1,83 +1,61 @@
 # 张俊逸
 
+---
+
 ## 📱 联系方式
 
-- 手机：18516288236
-- Email：zjywill@hotmail.com
-- GitHub：[zjywill](https://github.com/zjywill)
+- 📞 手机：18516288236
+- 📧 Email：zjywill@hotmail.com
+- 🐙 GitHub：[zjywill](https://github.com/zjywill)
+
+---
 
 ## 👤 个人信息
 
-- 西安电子科技大学 · 软件工程 · 本科
-- 12 年工作经验 | 1989 年生
-- 英文办公无障碍
+- 🎓 西安电子科技大学 · 软件工程 · 本科
+- ⏳ 12 年工作经验 | 1989 年生
+- 🌍 英文办公无障碍
+
+---
 
 ## 💻 技术栈
 
-### 移动开发
+### 📱 移动客户端架构
 
-- Android 原生开发
+- Flutter 跨平台开发（禅聊 IM/万能上网客户端）
+- Android 原生框架（系统应用/浏览器开发）
+- 混合架构设计（Provider/Bloc/Dagger）
+- 性能调优（NDK/JNI/R8 优化）
 
-  - 精通 Android Framework 及系统开发
-  - 熟悉 Kotlin/Java 开发，掌握 JetPack 组件
-  - 擅长 Dagger、RxJava、Retrofit 等主流框架
-  - 具备 NDK/JNI 开发经验
+### ⚙️ 后端微服务
 
-- Flutter 跨平台开发
-  - 精通 Flutter 框架及 Dart 语言
-  - 熟练使用 Provider、Bloc、GetX 等状态管理方案
-  - 擅长原生功能集成与性能优化
-  - 具备 Flutter 插件开发经验
+- Node.js 技术栈（NestJS/TypeScript）
+- 数据库架构（Prisma/MySQL 分库分表）
+- 实时消息系统（Kafka/Redis 集群）
+- 分布式架构（服务发现/负载均衡）
 
-### 后端开发
+### 🤝 协同编辑系统
 
-- Node.js 技术栈
+- CRDT 冲突解决算法
+- YJS 框架深度定制
+- 移动端同步优化
+- Excel 格式转换引擎
 
-  - NestJS 框架，TypeScript 开发
-  - Prisma ORM，MySQL 数据库设计
-  - Redis 缓存，集群部署
-  - Kafka 消息队列
+### 🧠 智能集成
 
-- 微服务架构
-  - 分布式系统设计
-  - 服务注册与发现
-  - 负载均衡与限流
-  - 监控告警体系
+- 大语言模型集成（ChatGPT/Claude）
+- LLM 适配层设计（插件化架构）
+- OCR 文字识别（PaddlePaddle）
+- 图像处理流水线优化
 
-### 前端开发
+### 🏗️ 工程化体系
 
-- Web 技术
+- 微服务监控告警（Prometheus/Grafana）
+- 容器化部署（Docker/K8s）
+- 持续集成（GitHub Actions）
+- 移动端热更新方案
 
-  - Vue.js 框架及生态
-  - TypeScript/JavaScript
-  - HTML5/CSS3
-  - WebSocket 实时通信
-
-- 协同编辑
-  - CRDT 算法实现
-  - YJS 框架应用
-  - 实时数据同步
-  - 冲突解决策略
-
-### 人工智能
-
-- 大语言模型
-
-  - ChatGPT/Claude API 集成
-  - LLM 适配层设计
-  - 对话管理系统
-
-- 计算机视觉
-  - OCR 文字识别
-  - PaddlePaddle 框架
-  - 图像处理算法
-
-### 开发工具
-
-- Git/GitHub
-- Docker/K8s
-- CI/CD
-- Linux/Shell
+---
 
 ## 📝 个人简介
 
@@ -88,6 +66,8 @@
 在后端开发方面，我运用 NestJS、Prisma、Redis、Kafka 等技术栈构建了高性能的 IM 服务端系统。同时在前端领域，我主导开发了基于 YJS 和 CRDT 算法的多人协同编辑系统，实现了复杂的实时协作功能。
 
 我善于将新技术应用到实际业务中，如使用 paddlepaddle 实现 OCR 服务，开发 SDK 提供第三方接入等。作为技术负责人，我注重技术的商业价值，善于平衡创新与实用，能够带领团队完成从技术选型到架构设计的完整流程。
+
+---
 
 ## 🏢 工作经历
 
@@ -137,6 +117,8 @@ _2017/04 - 2025/01_
 - SDK 化与第三方接入支持
 - 广告系统对接与优化
 
+---
+
 ### 上海相誉网络科技有限公司
 
 _2016/03 - 2017/03_
@@ -147,6 +129,8 @@ _2016/03 - 2017/03_
 - 实现跨平台数据缓存机制
 - 设计高效的数据持久化方案
 
+---
+
 ### 联想
 
 _2014/03 - 2016/02_
@@ -156,6 +140,8 @@ _2014/03 - 2016/02_
 - 优化浏览器核心功能与性能
 - 开发书签同步等创新功能
 - 负责后端接口开发 (PHP)
+
+---
 
 ### HTC
 
