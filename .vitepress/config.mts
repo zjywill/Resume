@@ -3,8 +3,9 @@ import { defineConfig } from 'vitepress';
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: 'Resume',
-  description: 'A VitePress Site',
+  description: 'A Resume Site',
   themeConfig: {
+    logo: '/logo.png',
     // https://vitepress.dev/reference/default-theme-config
     nav: [{ text: 'Home', link: '/' }],
 
